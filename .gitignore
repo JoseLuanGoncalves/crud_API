@@ -10,11 +10,6 @@ node_modules/
 Thumbs.db
 
 
-.dockerignore
-docker-compose.yml
-Dockerfile
-
-
 temp/
 tmp/
 
